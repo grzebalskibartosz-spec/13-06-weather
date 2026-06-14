@@ -1,0 +1,11 @@
+flight_number,from,to,price,duration,airline
+LO123,Warszawa,Londyn,850,150,LOT
+FR456,Kraków,Rzym,320,120,Ryanair
+W678,Gdańsk,Oslo,450,105,Wizz Air
+LH789,Warszawa,Berlin,500,80,Lufthansa
+BA321,Poznań,Londyn,950,140,British Airways
+AF654,Warszawa,Paryż,780,135,Air France
+KL852,Wrocław,Amsterdam,620,110,KLM
+TK963,Warszawa,Stambuł,1200,180,Turkish Airlines
+SN741,Katowice,Bruksela,540,115,Brussels Airlines
+IB258,Warszawa,Madryt,980,220,Iberia
