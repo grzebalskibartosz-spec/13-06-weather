@@ -116,7 +116,7 @@ def save_file(data):
         print(e)
 
 
-        def read_file():
+def read_file():
             try:
                 df = pd.read_excel(Config.WEATHER_FILE)
                 return df
